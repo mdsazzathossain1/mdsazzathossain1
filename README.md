@@ -5,6 +5,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-md--sazzat--hossain-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;|&nbsp;
+  <a href="https://www.researchgate.net/profile/Md-Sazzat-Hossain" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-md--sazzat--hossain-brightgreen?logo=researchgate" alt="ResearchGate"/>
+  </a>
+  &nbsp;|&nbsp;
   <a href="mailto:mdsazzatsardar1@gmail.com">
     <img src="https://img.shields.io/badge/Email-mdsazzatsardar1@gmail.com-red?logo=gmail" alt="Email"/>
   </a>
